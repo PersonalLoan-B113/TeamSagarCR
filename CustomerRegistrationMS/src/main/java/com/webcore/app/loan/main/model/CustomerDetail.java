@@ -1,0 +1,7 @@
+package com.webcore.app.loan.main.model;
+
+
+public class CustomerDetail 
+{
+
+}
